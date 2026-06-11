@@ -16,7 +16,7 @@ SysPulse est un outil complet de profilage système développé en Python. Il pe
 ## 🛠 Prerequisites / Prérequis
 - Python 3.x
 - `psutil` library: `pip install psutil`
-- 
+  
 ## 💻 Installation
 1. Clone this repository:
    
