@@ -20,7 +20,7 @@ SysPulse est un outil complet de profilage système développé en Python. Il pe
 ## 💻 Installation
 1. Clone this repository:
    
-   git clone git clone https://github.com/evanrcl/SysPulse-Audit
+   git clone https://github.com/evanrcl/SysPulse-Audit.git
 
 2.  cd syspulse-audit
 
