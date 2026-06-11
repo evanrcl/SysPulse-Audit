@@ -16,3 +16,22 @@ SysPulse est un outil complet de profilage système développé en Python. Il pe
 ## 🛠 Prerequisites / Prérequis
 - Python 3.x
 - `psutil` library: `pip install psutil`
+- 
+## 💻 Installation
+1. Clone this repository:
+   
+   git clone [https://github.com/evanrcl/syspulse-audit.git](https://github.com/evanrcl/syspulse-audit.git)
+
+2.  cd syspulse-audit
+
+3.  pip install psutil
+
+4.  python SysPulse-Audit.py
+
+# Generate a full report and save it (JSON + TXT)
+python SysPulse-Audit.py --save
+
+# Get raw JSON output
+python SysPulse-Audit.py --json
+
+  
